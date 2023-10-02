@@ -54,7 +54,7 @@ public class Main {
             } while (getUserAnswer("Do you want to continue?"));
 
         }
-        while (getUserAnswer("Maybe do you want to continue more?"));
+        while (getUserAnswer("Do you want to repeat?"));
         print("Thanks for using our services");
 
     }
